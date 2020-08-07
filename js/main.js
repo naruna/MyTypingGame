@@ -11,7 +11,7 @@
   let loc; //いま何文字目か location 場所、位置
   let score;
   let miss;
-  const timeLimit = 3 * 1000;
+  const timeLimit = 10 * 1000;
   let startTime;
   let isPlaying = false;
 
